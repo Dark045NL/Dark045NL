@@ -1,33 +1,33 @@
-## Hey! I'm Alim Arslan Kaya 👋
+## Hey! I'm Stephan Bisschop 👋
 
-Elixir, Kotlin, Python and TypeScript Enthusiast.
+JavaScript, C#, Python and MySQL Enthusiast.
 
 ### Programming
 
 #### I do:
 
 - Fullstack Web Development
-- Android Development
+- node.js Development
 
 #### I know:
 
-- Elixir
-- Kotlin
+- C#
+- PHP
 - Python
 - JavaScript
-- TypeScript
+- Express
 - HTML
 - CSS
-- SQL
+- MySQL
 
 ### My Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Allyedge&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark045NL&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allyedge&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark045NL&theme=radical)
 
 ### Contact
 
 [Discord](https://discordapp.com/users/675008503299047445)
 
-[Twitter](https://twitter.com/Re_allyedge)
+[Twitter](https://twitter.com/Dark0457)
