@@ -1,6 +1,6 @@
 ## Hey! I'm Stephan Bisschop 👋
 
-JavaScript, C#, Python and MySQL Enthusiast.
+JavaScript, C# and MySQL Enthusiast.
 
 ### Programming
 
